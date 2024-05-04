@@ -22,9 +22,8 @@ This repository contains code for a machine learning project aimed at predicting
 3. Provided insights into historical events and passenger demographics.
    
 ## Usage
-1. Clone the repository: git clone https://github.com/yourusername/titanic-survival-prediction.git
-2. Install dependencies: pip install -r requirements.txt
-3. Run Jupyter notebooks in the notebooks directory for data preprocessing, model training, and evaluation.
+1. Install dependencies: pip install -r requirements.txt
+2. Run Jupyter notebooks in the notebooks directory for data preprocessing, model training, and evaluation.
 
 ## Future Work
 1. Fine-tune model hyperparameters for improved performance.
